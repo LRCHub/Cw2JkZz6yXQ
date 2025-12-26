@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "首が痛い",
+  "base_artist": "ゴールデンボンバー",
+  "createdAt": "2025-12-26T17:38:11.572007Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "首が痛い",
+      "artist": "ゴールデンボンバー",
+      "has_synced": false,
+      "path": "select/pl_01_首が痛い_ゴールデンボンバー.txt"
+    }
+  ]
+}
